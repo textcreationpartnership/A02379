@@ -32,9 +32,14 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Disputatio inter clericum et miletem super potestate prelatis ecclesiæ atq[us] principibus terrarum 
+
 #####Body#####
-Disputatio inter clericum et miletem super potestate prelatis ecclesiæ atq[us] principibus terrarum 
+
+1. CLERICVS SERMONIS SVI
+exordium sub hac forma
+posuit dicens.
+Clericus.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
